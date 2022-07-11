@@ -11,6 +11,7 @@ class Vehicle {
   
       // Create a myCar object
       Car myCar = new Car();
+      Car myCar1 = new Car();
   
       // Call the honk() method (from the Vehicle class) on the myCar object
       myCar.honk();
